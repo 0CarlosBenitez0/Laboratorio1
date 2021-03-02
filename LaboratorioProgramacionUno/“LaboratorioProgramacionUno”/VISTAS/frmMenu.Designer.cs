@@ -35,7 +35,7 @@ namespace _LaboratorioProgramacionUno_.VISTAS
             // 
             // btnUsuario
             // 
-            this.btnUsuario.Font = new System.Drawing.Font("Microsoft Sans Serif", 18F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btnUsuario.Font = new System.Drawing.Font("Algerian", 18F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnUsuario.Location = new System.Drawing.Point(78, 147);
             this.btnUsuario.Name = "btnUsuario";
             this.btnUsuario.Size = new System.Drawing.Size(273, 161);
@@ -46,10 +46,10 @@ namespace _LaboratorioProgramacionUno_.VISTAS
             // 
             // btnAdministrador
             // 
-            this.btnAdministrador.Font = new System.Drawing.Font("Microsoft Sans Serif", 18F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btnAdministrador.Font = new System.Drawing.Font("Algerian", 18F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnAdministrador.Location = new System.Drawing.Point(400, 147);
             this.btnAdministrador.Name = "btnAdministrador";
-            this.btnAdministrador.Size = new System.Drawing.Size(248, 161);
+            this.btnAdministrador.Size = new System.Drawing.Size(305, 161);
             this.btnAdministrador.TabIndex = 1;
             this.btnAdministrador.Text = "Administrador";
             this.btnAdministrador.UseVisualStyleBackColor = true;
