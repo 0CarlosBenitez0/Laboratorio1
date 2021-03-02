@@ -46,6 +46,8 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Dao\listaDeAdministradores.cs" />
+    <Compile Include="Dao\listaDeUsuarios.cs" />
     <Compile Include="VISTAS\frmLoguin.cs">
       <SubType>Form</SubType>
     </Compile>
