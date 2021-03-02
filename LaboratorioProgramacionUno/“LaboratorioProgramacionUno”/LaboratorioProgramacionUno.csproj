@@ -46,9 +46,6 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="DAO\listaDeAdministradores.cs" />
-    <Compile Include="DAO\listaDeUsuarios.cs" />
-    <Compile Include="DOMINIO\Login.cs" />
     <Compile Include="VISTAS\frmLoguin.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -87,6 +84,7 @@
     <EmbeddedResource Include="VISTAS\frmOperaciones.resx">
       <DependentUpon>frmOperaciones.cs</DependentUpon>
     </EmbeddedResource>
+    <None Include="NEGOCIO\cls.Login" />
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>
       <LastGenOutput>Settings.Designer.cs</LastGenOutput>
