@@ -15,3 +15,6 @@ namespace _LaboratorioProgramacionUno_.DOMINIO
         public string Usuario { get => usuario; set => usuario = value; }
         public string Password { get => password; set => password = value; }
         public int Estado { get => estado; set => estado = value; }
+
+    }
+}

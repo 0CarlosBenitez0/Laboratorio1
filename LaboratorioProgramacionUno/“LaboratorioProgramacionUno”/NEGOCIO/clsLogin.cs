@@ -14,8 +14,9 @@ namespace _LaboratorioProgramacionUno_.NEGOCIO
         listaDeUsuarios list = new listaDeUsuarios();
 
         int varAcceso = 0;
-       
-        public int Acceso(Login log) {
+
+        public int Acceso(Login log)
+        {
 
             if (log.Estado == 0)
             {
@@ -37,7 +38,7 @@ namespace _LaboratorioProgramacionUno_.NEGOCIO
                     }
                 }
             }
-            else 
+            else
             {
                 return 0;
             }
