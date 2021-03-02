@@ -1,0 +1,12 @@
+C:\Users\cb272\Documents\GitHub\“LaboratorioProgramacionUno”\“LaboratorioProgramacionUno”\bin\Debug\“LaboratorioProgramacionUno”.exe.config
+C:\Users\cb272\Documents\GitHub\“LaboratorioProgramacionUno”\“LaboratorioProgramacionUno”\bin\Debug\“LaboratorioProgramacionUno”.exe
+C:\Users\cb272\Documents\GitHub\“LaboratorioProgramacionUno”\“LaboratorioProgramacionUno”\bin\Debug\“LaboratorioProgramacionUno”.pdb
+C:\Users\cb272\Documents\GitHub\“LaboratorioProgramacionUno”\“LaboratorioProgramacionUno”\obj\Debug\LaboratorioProgramacionUno.csprojAssemblyReference.cache
+C:\Users\cb272\Documents\GitHub\“LaboratorioProgramacionUno”\“LaboratorioProgramacionUno”\obj\Debug\_LaboratorioProgramacionUno_.VISTAS.frmLoguin.resources
+C:\Users\cb272\Documents\GitHub\“LaboratorioProgramacionUno”\“LaboratorioProgramacionUno”\obj\Debug\_LaboratorioProgramacionUno_.frmMenu.resources
+C:\Users\cb272\Documents\GitHub\“LaboratorioProgramacionUno”\“LaboratorioProgramacionUno”\obj\Debug\_LaboratorioProgramacionUno_.Properties.Resources.resources
+C:\Users\cb272\Documents\GitHub\“LaboratorioProgramacionUno”\“LaboratorioProgramacionUno”\obj\Debug\_LaboratorioProgramacionUno_.VISTAS.frmOperaciones.resources
+C:\Users\cb272\Documents\GitHub\“LaboratorioProgramacionUno”\“LaboratorioProgramacionUno”\obj\Debug\LaboratorioProgramacionUno.csproj.GenerateResource.cache
+C:\Users\cb272\Documents\GitHub\“LaboratorioProgramacionUno”\“LaboratorioProgramacionUno”\obj\Debug\LaboratorioProgramacionUno.csproj.CoreCompileInputs.cache
+C:\Users\cb272\Documents\GitHub\“LaboratorioProgramacionUno”\“LaboratorioProgramacionUno”\obj\Debug\“LaboratorioProgramacionUno”.exe
+C:\Users\cb272\Documents\GitHub\“LaboratorioProgramacionUno”\“LaboratorioProgramacionUno”\obj\Debug\“LaboratorioProgramacionUno”.pdb
