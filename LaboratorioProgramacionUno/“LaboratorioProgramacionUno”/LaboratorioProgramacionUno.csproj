@@ -49,7 +49,6 @@
     <Compile Include="DAO\listaDeAdministradores.cs" />
     <Compile Include="DAO\listaDeUsuarios.cs" />
     <Compile Include="DOMINIO\Login.cs" />
-    <Compile Include="NEGOCIO\clsLogin.cs" />
     <Compile Include="VISTAS\frmLoguin.cs">
       <SubType>Form</SubType>
     </Compile>
